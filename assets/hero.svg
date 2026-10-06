@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="t d">
+  <title id="t">Ivy Tanui</title>
+  <desc id="d">Software engineer and BBIT student at Strathmore University. A poster-style banner in three pinks, with a black sticker monogram.</desc>
+  <rect width="1200" height="460" fill="#F9F9F9"/>
+  <rect x="0" y="0" width="620" height="460" fill="#F33283"/>
+  <rect x="620" y="0" width="340" height="460" fill="#FF8084"/>
+  <rect x="960" y="0" width="240" height="460" fill="#FFADD7"/>
+
+  <text x="40" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="4" fill="#FFFFFF">PROFILE / 2026</text>
+  <line x1="40" y1="62" x2="580" y2="62" stroke="#FFFFFF" stroke-width="1.5"/>
+  <path d="M74.24536205864752 75.03125H41.727109515260324V238.0H74.24536205864752Z M125.92040694195093 238.0H170.3512866546978L209.30879712746858 75.03125H172.92698982645123L159.64602034709753 138.25C155.38001196888092 158.59375 151.75792938360263 179.375 148.37731897067624 200.703125C144.75523638539795 179.375 140.9721723518851 158.59375 136.46469180131658 138.25L122.53979652902453 75.03125H85.67504488330341Z M261.38629563135845 238.0H293.74356672651106V181.34375L337.12806702573306 75.03125H299.0559545182525L282.87731897067624 124.25C280.86505086774383 130.265625 279.25523638539795 136.28125 277.72591262716935 143.0625C276.0356074207061 136.28125 274.34530221424296 130.265625 272.25254338719327 124.25L254.94703770197484 75.03125H216.7139437462597L261.38629563135845 181.34375Z" fill="#FFFFFF"/>
+  <path d="M38.50748055056852 292.6875H74.32585278276481V420.0H106.844105326152V292.6875H142.66247755834831V257.03125H38.50748055056852Z M150.8725314183124 420.0H187.25433871932975L193.85457809694796 388.71875H230.71932974266906L237.64153201675646 420.0H274.5062836624776L234.18043087971276 257.03125H189.7495511669659ZM200.77678037103533 355.6875C204.96229802513466 335.78125 208.34290843806104 314.5625 211.64302812687015 293.234375C215.26511071214844 314.5625 219.12866546977858 335.78125 223.47516457211253 355.6875Z M285.9359664871335 420.0H319.42010771992824V360.5C319.42010771992824 349.78125 318.53470975463796 331.84375 317.56882106523045 313.140625C323.36415320167566 331.40625 327.7911430281269 343.875 335.27678037103533 360.5L361.91921005386 420.0H397.3351286654698V257.03125H363.8509874326751V316.75C363.8509874326751 328.78125 364.89736684619993 348.6875 365.70227408737287 365.3125C360.7923399162179 346.9375 355.9628964691802 334.46875 349.92609216038306 321.015625L321.3518850987433 257.03125H285.9359664871335Z M464.4643925792939 421.96875C495.2923399162178 421.96875 516.3004189108318 398.671875 516.3004189108318 361.375V257.03125H483.78216636744463V357.65625C483.78216636744463 372.859375 475.73309395571516 383.6875 464.4643925792939 383.6875C453.35667265110715 383.6875 445.3076002393776 372.859375 445.3076002393776 357.65625V257.03125H412.78934769599044V361.375C412.78934769599044 398.671875 433.47546379413524 421.96875 464.4643925792939 421.96875Z M564.2728904847397 257.03125H531.7546379413525V420.0H564.2728904847397Z" fill="#FFFFFF"/>
+  <rect x="582" y="262" width="14" height="158" fill="#000000"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+
+  <line x1="652" y1="70" x2="930" y2="70" stroke="#000000" stroke-width="1.5"/>
+  <text x="652" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="3" fill="#000000">ROLE</text>
+  <text x="652" y="128" font-family="'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="800" fill="#000000">software engineer</text>
+  <line x1="652" y1="162" x2="930" y2="162" stroke="#000000" stroke-width="1.5"/>
+  <text x="652" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="3" fill="#000000">STUDYING</text>
+  <text x="652" y="220" font-family="'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="800" fill="#000000">BBIT, Strathmore</text>
+  <line x1="652" y1="254" x2="930" y2="254" stroke="#000000" stroke-width="1.5"/>
+  <text x="652" y="280" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="3" fill="#000000">CERTIFIED</text>
+  <text x="652" y="312" font-family="'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="800" fill="#000000">Moringa School</text>
+  <line x1="652" y1="346" x2="930" y2="346" stroke="#000000" stroke-width="1.5"/>
+  <text x="652" y="372" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="3" fill="#000000">HANDLE</text>
+  <text x="652" y="404" font-family="'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="800" fill="#000000">@tanuiivy</text>
+  <line x1="652" y1="438" x2="930" y2="438" stroke="#000000" stroke-width="1.5"/>
+
+  <g>
+  <g transform="rotate(-8 1080 205)">
+    <path id="ring" d="M 1006 205 a 74 74 0 1 1 148 0 a 74 74 0 1 1 -148 0" fill="none"/>
+    <circle cx="1080" cy="205" r="96" fill="#000000"/>
+    <circle cx="1080" cy="205" r="89" fill="none" stroke="#F33283" stroke-width="1.5"/>
+    <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="700" fill="#FFADD7">
+      <textPath href="#ring">SOFTWARE ENGINEER · BBIT STUDENT ·</textPath>
+    </text>
+    <path d="M1064.08837890625 179.272265625H1051.66064453125V230.2H1064.08837890625Z M1069.76416015625 190.41484375H1083.453125V230.2H1095.880859375V190.41484375H1109.56982421875V179.272265625H1069.76416015625Z" fill="#F33283"/>
+  </g>
+    <rect x="1046" y="96" width="70" height="26" fill="#FFFFFF" opacity="0.75" transform="rotate(14 1081 109)"/>
+  </g>
+  <line x1="984" y1="394" x2="1176" y2="394" stroke="#000000" stroke-width="1.5"/>
+  <text x="984" y="418" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#000000">tanuiivy / README.md</text>
+</svg>
